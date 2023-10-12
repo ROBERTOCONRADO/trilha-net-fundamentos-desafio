@@ -1,0 +1,15 @@
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\bin\Debug\net7.0\Desafios-Bootcamp.exe
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\bin\Debug\net7.0\Desafios-Bootcamp.deps.json
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\bin\Debug\net7.0\Desafios-Bootcamp.runtimeconfig.json
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\bin\Debug\net7.0\Desafios-Bootcamp.dll
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\bin\Debug\net7.0\Desafios-Bootcamp.pdb
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\Desafios-Bootcamp.csproj.AssemblyReference.cache
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\Desafios-Bootcamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\Desafios-Bootcamp.AssemblyInfoInputs.cache
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\Desafios-Bootcamp.AssemblyInfo.cs
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\Desafios-Bootcamp.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\Desafios-Bootcamp.dll
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\refint\Desafios-Bootcamp.dll
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\Desafios-Bootcamp.pdb
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\Desafios-Bootcamp.genruntimeconfig.cache
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Desafios-Bootcamp\obj\Debug\net7.0\ref\Desafios-Bootcamp.dll

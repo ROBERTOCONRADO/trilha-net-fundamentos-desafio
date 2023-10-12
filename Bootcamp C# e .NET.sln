@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "trilha-net-fundamentos-desa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesafioFundamentos", "trilha-net-fundamentos-desafio\DesafioFundamentos\DesafioFundamentos.csproj", "{DCB9F470-2259-40CF-975F-33CFCDF2DFBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafios-Bootcamp", "Desafios-Bootcamp\Desafios-Bootcamp.csproj", "{1F1E53F9-E033-47CE-A5CE-D57092022EC0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{DCB9F470-2259-40CF-975F-33CFCDF2DFBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCB9F470-2259-40CF-975F-33CFCDF2DFBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCB9F470-2259-40CF-975F-33CFCDF2DFBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F1E53F9-E033-47CE-A5CE-D57092022EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F1E53F9-E033-47CE-A5CE-D57092022EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F1E53F9-E033-47CE-A5CE-D57092022EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F1E53F9-E033-47CE-A5CE-D57092022EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

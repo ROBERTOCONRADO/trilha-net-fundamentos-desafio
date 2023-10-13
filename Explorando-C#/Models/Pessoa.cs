@@ -21,6 +21,8 @@ namespace Explorando_C_.Models
                 _nome = value;
             }
         }
+        public string Sobrenome { get ; set; }
+        public string NomeCompleto => $"{Nome} {Sobrenome}".ToUpper();
         public int Idade 
         { 
             get => _idade;
@@ -36,7 +38,7 @@ namespace Explorando_C_.Models
 
         public void Apresentar()
         {
-            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
+            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade}");
         }
     }
 }

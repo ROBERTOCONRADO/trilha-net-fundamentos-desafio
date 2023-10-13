@@ -1,0 +1,15 @@
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\bin\Debug\net7.0\Explorando-C#.exe
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\bin\Debug\net7.0\Explorando-C#.deps.json
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\bin\Debug\net7.0\Explorando-C#.runtimeconfig.json
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\bin\Debug\net7.0\Explorando-C#.dll
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\bin\Debug\net7.0\Explorando-C#.pdb
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\Explorando-C#.csproj.AssemblyReference.cache
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\Explorando-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\Explorando-C#.AssemblyInfoInputs.cache
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\Explorando-C#.AssemblyInfo.cs
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\Explorando-C#.csproj.CoreCompileInputs.cache
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\Explorando-C#.dll
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\refint\Explorando-C#.dll
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\Explorando-C#.pdb
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\Explorando-C#.genruntimeconfig.cache
+C:\Users\Roberto Conrado\Desktop\Meus Projetos\Bootcamp C# e .NET\Explorando-C#\obj\Debug\net7.0\ref\Explorando-C#.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roberto Conrado\\Desktop\\Meus Projetos\\Bootcamp C# e .NET\\Desafios-Bootcamp\\Desafios-Bootcamp.csproj",
-      "projectName": "Desafios-Bootcamp",
-      "projectPath": "C:\\Users\\Roberto Conrado\\Desktop\\Meus Projetos\\Bootcamp C# e .NET\\Desafios-Bootcamp\\Desafios-Bootcamp.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto Conrado\\Desktop\\Meus Projetos\\Bootcamp C# e .NET\\ExemploPOO\\ExemploPOO.csproj",
+      "projectName": "ExemploPOO",
+      "projectPath": "C:\\Users\\Roberto Conrado\\Desktop\\Meus Projetos\\Bootcamp C# e .NET\\ExemploPOO\\ExemploPOO.csproj",
       "packagesPath": "C:\\Users\\Roberto Conrado\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roberto Conrado\\Desktop\\Meus Projetos\\Bootcamp C# e .NET\\Desafios-Bootcamp\\obj\\",
+      "outputPath": "C:\\Users\\Roberto Conrado\\Desktop\\Meus Projetos\\Bootcamp C# e .NET\\ExemploPOO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Roberto Conrado\\AppData\\Roaming\\NuGet\\NuGet.Config",

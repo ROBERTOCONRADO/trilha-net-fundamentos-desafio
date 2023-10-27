@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CqQbIbid4qn7IfsI2bqLbwOTqJdo8DqPZcpJDQoAUoPRtofy19hBut1/norIPTGELG2awXMEBziVOuQ9Mi6FgA==",
+  "dgSpecHash": "AK6FqhDqnrhpS/xslwf6g8m3HbZN1ibYDw+c18llbm+Mkk7sKpvvl2P3PuuZk2ZelwRoIjs4cvttosgTsxbKAg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Roberto Conrado\\Desktop\\Meus Projetos\\Bootcamp C# e .NET\\Explorando-C#\\Explorando-C#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Roberto Conrado\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

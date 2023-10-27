@@ -7,6 +7,12 @@ a1.Email = "robertoconradorc@gmail.com";
 a1.Nota = 7.2;
 a1.Apresentar();
 
+Professor p1 = new Professor();
+p1.Nome = "Rubens";
+p1.Idade = 40;
+p1.Salario = 1800;
+p1.Apresentar();
+
 
 
 

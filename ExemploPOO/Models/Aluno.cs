@@ -8,6 +8,10 @@ namespace ExemploPOO.Models
     public class Aluno : Pessoa
     {
         public double Nota { get; set; }
+        public override void Apresentar() 
+        {
+            Console.WriteLine($"Olá, meu nome é {Nome}, tenho {Idade} anos! Minha nota foi {Nota}, pode entrar em contato comigo através do email: {Email}");
+        }
 
     }
 }

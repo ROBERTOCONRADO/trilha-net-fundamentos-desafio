@@ -1,17 +1,26 @@
 ﻿using ExemploPOO.Models;
 
-Aluno a1 = new Aluno();
-a1.Nome = "Beto";
-a1.Idade = 29;
-a1.Email = "robertoconradorc@gmail.com";
-a1.Nota = 7.2;
-a1.Apresentar();
+Corrente c = new Corrente();
+c.Creditar(500);
+c.ExibirSaldo();
 
-Professor p1 = new Professor();
-p1.Nome = "Rubens";
-p1.Idade = 40;
-p1.Salario = 1800;
-p1.Apresentar();
+
+
+
+
+
+// Aluno a1 = new Aluno();
+// a1.Nome = "Beto";
+// a1.Idade = 29;
+// a1.Email = "robertoconradorc@gmail.com";
+// a1.Nota = 7.2;
+// a1.Apresentar();
+
+// Professor p1 = new Professor();
+// p1.Nome = "Rubens";
+// p1.Idade = 40;
+// p1.Salario = 1800;
+// p1.Apresentar();
 
 
 
